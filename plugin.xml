@@ -19,7 +19,7 @@
 
     <preference name="APP_ID" />
     <preference name="APP_NAME" />
-    <preference name="FACEBOOK_HYBRID_APP_EVENTS" default="false" />
+    <preference name="FACEBOOK_HYBRID_APP_EVENTS" default="true" />
     <preference name="FACEBOOK_ANDROID_SDK_VERSION" default="5.13.0"/>
 
     <engines>
